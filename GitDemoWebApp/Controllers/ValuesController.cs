@@ -12,6 +12,7 @@ namespace GitDemoWebApp.Controllers
        
         //this is first master init
         //commit one to its branch
+        //commit two to its branch
         // GET api/values
         public IEnumerable<string> Get()
         {
